@@ -11,8 +11,8 @@
   },
   "exampleMessage": {
       "msgID": 1,
-      "creationDate": 1553367684
-      "arrivalDate": 1553367784
+      "creationDate": 1553367684,
+      "arrivalDate": 1553367784,
       "content": "Nel mezzo del cammin di nostra vita mi ritrovai pe"
   }
 }
