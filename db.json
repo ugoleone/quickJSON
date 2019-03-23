@@ -1,14 +1,18 @@
 {
-  "servResp": [
-    {
+  "servResp": {
       "newMsg": [],
-      "msgToClean": []
-    }
-  ],
+      "msgToClean": [1, 2, 3]
+  },
   "servReq": {
-    "readerID": 1,
-    "groupID": 1,
-    "numMsgReq": 5,
-    "activeMsgId": [1, 2, 3]
+      "readerID": 1,
+      "groupID": 1,
+      "numMsgReq": 5,
+      "activeMsgId": [1, 2, 3]
+  },
+  "exampleMessage": {
+      "msgID": 1,
+      "creationDate": 1553367684
+      "arrivalDate": 1553367784
+      "content": "Nel mezzo del cammin di nostra vita mi ritrovai pe"
   }
 }
