@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "servResp": [
     {
-      "id": 1,
-      "title": "hello"
+      "newMsg": [],
+      "msgToClean": []
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "servReq": {
+    "readerID": 1,
+    "groupID": 1,
+    "numMsgReq": 5,
+    "activeMsgId": [1, 2, 3]
   }
 }
