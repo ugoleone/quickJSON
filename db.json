@@ -2,19 +2,19 @@
   "servResp": {
       "newMsg": [
           {
-            "msgID": 4,
+            "msgID": "0033f3e3-73eb-48e9-bedf-5a34546882fd",
             "content": "Nel mezzo del cammin di nostra vita mi ritrovai pe"
           },
           {
-            "msgID": 5,
+            "msgID": "02bf7d5e-8b72-4f47-89ad-ee3df1ffcd3a",
             "content": "questo è il messaggio numero 5 blab mi ritrovai pe"
           },
           {
-            "msgID": 6,
+            "msgID": "04926e79-46c3-422c-a924-ce288b060356",
             "content": "questo è il messaggio numero 6 blab mi ritrovai pe"
           },
           {
-            "msgID": 7,
+            "msgID": "0891c995-8e4f-4dd4-b2d1-458ea9dfebb7",
             "content": "questo è il messaggio numero 7 blab mi ritrovai pe"
           }
       ]
