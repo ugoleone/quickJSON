@@ -3,30 +3,21 @@
       "newMsg": [
           {
             "msgID": 4,
-            "creationDate": 1553367684,
-            "arrivalDate": 1553367784,
             "content": "Nel mezzo del cammin di nostra vita mi ritrovai pe"
           },
           {
             "msgID": 5,
-            "creationDate": 1553367694,
-            "arrivalDate": 1553367794,
             "content": "questo è il messaggio numero 5 blab mi ritrovai pe"
           },
           {
             "msgID": 6,
-            "creationDate": 1553367704,
-            "arrivalDate": 1553367804,
             "content": "questo è il messaggio numero 6 blab mi ritrovai pe"
           },
           {
             "msgID": 7,
-            "creationDate": 1553367714,
-            "arrivalDate": 1553367814,
             "content": "questo è il messaggio numero 7 blab mi ritrovai pe"
           }
-      ],
-      "msgToClean": [2, 3]
+      ]
   },
   "servReq": {
       "readerID": 1,
