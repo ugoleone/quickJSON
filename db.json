@@ -3,19 +3,19 @@
       "newMsg": [
           {
             "msgID": "0033f3e3-73eb-48e9-bedf-5a34546882fd",
-            "content": "Nel mezzo del cammin di nostra vita mi ritrovai pe"
-          },
-          {
-            "msgID": "02bf7d5e-8b72-4f47-89ad-ee3df1ffcd3a",
-            "content": "questo è il messaggio numero 5 blab mi ritrovai pe"
+            "content": "Nel mezzo del cammin di nostra vita mi ritrova[OK]"
           },
           {
             "msgID": "04926e79-46c3-422c-a924-ce288b060356",
-            "content": "questo è il messaggio numero 6 blab mi ritrovai pe"
+            "content": "questo è il messaggio numero 5 blab mi ritrova[OK]"
           },
           {
             "msgID": "0891c995-8e4f-4dd4-b2d1-458ea9dfebb7",
-            "content": "questo è il messaggio numero 7 blab mi ritrovai pe"
+            "content": "questo è il messaggio numero 6 blab mi ritrova[NO]"
+          },
+          {
+            "msgID": "099fa1e0-2192-440b-b5b6-9dbfc02da905",
+            "content": "questo è il messaggio numero 7 blab mi ritrova[OK]"
           }
       ]
   },
